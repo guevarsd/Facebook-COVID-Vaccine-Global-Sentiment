@@ -1,6 +1,6 @@
-# COVID Vaccine Global Sentiment
+# COVID-19 Vaccine Global Sentiment
 
-This Jupyter notebook shows global sentiment toward covid vaccines using the University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey, a survey conducted in parternship with Facebook.
+This Jupyter notebook shows global sentiment toward covid-19 vaccines using the University of Maryland Social Data Science Center Global COVID-19 Trends and Impact Survey, a survey conducted in parternship with Facebook.
 
 The first part of the project includes examples of using the API to access the survey data, focusing on data from Latin America for the first half of 2021 while the second part includes Tableau visualizations of data from May 2021.
 
